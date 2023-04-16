@@ -1,0 +1,2051 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/Users/cadenkeese/github/TM1640_led_array/TM1640_led_array.kicad_sch</source>
+    <date>Sunday, March 12, 2023 at 02:12:52 PM</date>
+    <tool>Eeschema (7.0.0-0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>TM1640_led_array.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/8_leds_1/" tstamps="/48f071de-e56c-440e-9f98-bf4e10ca7b97/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>8_leds.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/8_leds_2/" tstamps="/09270271-15ff-4378-b563-0ce21bce04c2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>8_leds.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/8_leds_3/" tstamps="/72a0f738-eb60-4ed7-a613-17374ee1faf2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>8_leds.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/8_leds_4/" tstamps="/af1d2a18-20f7-4435-a66a-61fb1a407513/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>8_leds.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/8_leds_6/" tstamps="/43765442-a81e-419e-afb0-f33d9bb73e5b/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>8_leds.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/8_leds_8/" tstamps="/e44c0205-9440-441f-8f91-f5f55491c117/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>8_leds.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/8_leds_5/" tstamps="/642d3ef0-7f00-49fc-90ef-1bc28a7e56eb/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>8_leds.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/8_leds_7/" tstamps="/4c485718-042a-4d4b-8726-b761114f1fd5/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>8_leds.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>TYPE-C-31-M-12</value>
+      <footprint>footprints:HRO_TYPE-C-31-M-12</footprint>
+      <fields>
+        <field name="JLC#">C165948</field>
+        <field name="MANUFACTURER">HRO Electronics Co., Ltd.</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.26 mm</field>
+        <field name="PARTREV">2020.12.08</field>
+        <field name="SNAPEDA_PN">TYPE-C-31-M-12</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+      </fields>
+      <libsource lib="TYPE-C-31-M-12" part="TYPE-C-31-M-12" description=""/>
+      <property name="PARTREV" value="2020.12.08"/>
+      <property name="MANUFACTURER" value="HRO Electronics Co., Ltd."/>
+      <property name="SNAPEDA_PN" value="TYPE-C-31-M-12"/>
+      <property name="STANDARD" value="Manufacturer Recommendations"/>
+      <property name="MAXIMUM_PACKAGE_HEIGHT" value="3.26 mm"/>
+      <property name="JLC#" value="C165948"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>24193945-bb91-4ad2-af29-ca661139526f</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Header</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical</footprint>
+      <fields>
+        <field name="JLC#">C146243</field>
+      </fields>
+      <libsource lib="Connector" part="Conn_01x03_Socket" description="Generic connector, single row, 01x03, script generated"/>
+      <property name="JLC#" value="C146243"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x03, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3294224d-834a-4d2e-85c9-02389c0df0f5</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>SHEILD_GND</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="SolderJumper_2_Open" description="Solder Jumper, 2-pole, open"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Solder Jumper, 2-pole, open"/>
+      <property name="ki_keywords" value="solder jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>70a733ab-30d4-4974-bfc6-5a27df37a8cd</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>NMOS</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://ngspice.sourceforge.io/docs/ngspice-manual.pdf</datasheet>
+      <fields>
+        <field name="JLC#">2N7002</field>
+        <field name="Sim.Device">NMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+        <field name="Sim.Type">VDMOS</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="NMOS" description="N-MOSFET transistor, drain/source/gate"/>
+      <property name="Sim.Device" value="NMOS"/>
+      <property name="Sim.Type" value="VDMOS"/>
+      <property name="Sim.Pins" value="1=D 2=G 3=S"/>
+      <property name="JLC#" value="2N7002"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, drain/source/gate"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET simulation"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1efff35c-faa9-4566-8305-1d2e1910b82a</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>NMOS</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://ngspice.sourceforge.io/docs/ngspice-manual.pdf</datasheet>
+      <fields>
+        <field name="JLC#">2N7002</field>
+        <field name="Sim.Device">NMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+        <field name="Sim.Type">VDMOS</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="NMOS" description="N-MOSFET transistor, drain/source/gate"/>
+      <property name="Sim.Device" value="NMOS"/>
+      <property name="Sim.Type" value="VDMOS"/>
+      <property name="Sim.Pins" value="1=D 2=G 3=S"/>
+      <property name="JLC#" value="2N7002"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, drain/source/gate"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET simulation"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbce3342-b7a9-41b7-8dcd-772b4b39c7e0</tstamps>
+    </comp>
+    <comp ref="Q3">
+      <value>NMOS</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://ngspice.sourceforge.io/docs/ngspice-manual.pdf</datasheet>
+      <fields>
+        <field name="JLC#">2N7002</field>
+        <field name="Sim.Device">NMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+        <field name="Sim.Type">VDMOS</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="NMOS" description="N-MOSFET transistor, drain/source/gate"/>
+      <property name="Sim.Device" value="NMOS"/>
+      <property name="Sim.Type" value="VDMOS"/>
+      <property name="Sim.Pins" value="1=D 2=G 3=S"/>
+      <property name="JLC#" value="2N7002"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, drain/source/gate"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET simulation"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>912840ee-eea3-45a0-aa2c-e6d9fbf7e3ed</tstamps>
+    </comp>
+    <comp ref="Q4">
+      <value>NMOS</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>https://ngspice.sourceforge.io/docs/ngspice-manual.pdf</datasheet>
+      <fields>
+        <field name="JLC#">2N7002</field>
+        <field name="Sim.Device">NMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+        <field name="Sim.Type">VDMOS</field>
+      </fields>
+      <libsource lib="Simulation_SPICE" part="NMOS" description="N-MOSFET transistor, drain/source/gate"/>
+      <property name="Sim.Device" value="NMOS"/>
+      <property name="Sim.Type" value="VDMOS"/>
+      <property name="Sim.Pins" value="1=D 2=G 3=S"/>
+      <property name="JLC#" value="2N7002"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="N-MOSFET transistor, drain/source/gate"/>
+      <property name="ki_keywords" value="transistor NMOS N-MOS N-MOSFET simulation"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a39f1690-b4e3-4196-a2e4-24dbf5f02dab</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC#">C105872</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="JLC#" value="C105872"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c7d202d1-bc1f-4ff3-8c92-cffc7533ee81</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC#">C105872</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="JLC#" value="C105872"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>89de6558-dfc0-417a-bd02-a4d7ceae5892</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>150R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC#">C25082</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="JLC#" value="C25082"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3058f4f9-c723-4ab1-99e7-a7194a5a2910</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>150R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC#">C25082</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="JLC#" value="C25082"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5f81433c-a4c0-4c2f-9558-6cb6a9df901a</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>150R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC#">C25082</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="JLC#" value="C25082"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8cd3b864-f502-4cc6-82a3-1b127afbdbb7</tstamps>
+    </comp>
+    <comp ref="R6">
+      <value>150R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC#">C25082</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="JLC#" value="C25082"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9df59858-f845-44cb-969c-ed668c3f629c</tstamps>
+    </comp>
+    <comp ref="R7">
+      <value>150R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC#">C25082</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="JLC#" value="C25082"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bce95af5-4e77-40a3-a32b-2d5bb0420ce2</tstamps>
+    </comp>
+    <comp ref="R8">
+      <value>150R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC#">C25082</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="JLC#" value="C25082"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cf8a6463-972a-44ce-913d-c4d9275d6bd7</tstamps>
+    </comp>
+    <comp ref="R9">
+      <value>150R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC#">C25082</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="JLC#" value="C25082"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d09e10ad-480c-470c-8964-c76dd68e4373</tstamps>
+    </comp>
+    <comp ref="R10">
+      <value>150R</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC#">C25082</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="JLC#" value="C25082"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>31824469-35f5-45c6-b916-0a53a15002ed</tstamps>
+    </comp>
+    <comp ref="R11">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC#">C105872</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="JLC#" value="C105872"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e1bb74ba-2083-4a64-b0b2-5f482373e319</tstamps>
+    </comp>
+    <comp ref="R12">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC#">C105872</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="JLC#" value="C105872"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0f82447c-acfd-4bdf-b754-d757d23224cd</tstamps>
+    </comp>
+    <comp ref="R13">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC#">C105872</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="JLC#" value="C105872"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>35edd7f3-8198-4ae4-a9a3-56974f81481f</tstamps>
+    </comp>
+    <comp ref="R14">
+      <value>5k1</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <fields>
+        <field name="JLC#">C105872</field>
+      </fields>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <property name="JLC#" value="C105872"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <property name="ki_description" value="Resistor, small US symbol"/>
+      <property name="ki_keywords" value="r resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32f39407-5008-484f-b516-94586e5b9552</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>~</value>
+      <footprint>Package_SO:SOIC-28W_7.5x17.9mm_P1.27mm</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2101251932_TM-Shenzhen-Titan-Micro-Elec-TM1640_C41327.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C41327</field>
+      </fields>
+      <libsource lib="Driver_LED" part="TM1640" description=""/>
+      <property name="JLC#" value="C41327"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="TM1640_led_array.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3490d7b3-53ac-43ae-a030-4650cbf42629</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_1"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_1/" tstamps="/48f071de-e56c-440e-9f98-bf4e10ca7b97/"/>
+      <tstamps>d11ebd29-6c91-4cbd-96e6-104305119337</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_1"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_1/" tstamps="/48f071de-e56c-440e-9f98-bf4e10ca7b97/"/>
+      <tstamps>27241c98-a97c-45c6-a0d8-8c8635d28be8</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_1"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_1/" tstamps="/48f071de-e56c-440e-9f98-bf4e10ca7b97/"/>
+      <tstamps>fbdad655-ffd6-4c37-a4b0-1f7f3ebc0803</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_1"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_1/" tstamps="/48f071de-e56c-440e-9f98-bf4e10ca7b97/"/>
+      <tstamps>db42e23d-9c07-4453-81c6-290dfd1b284b</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_1"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_1/" tstamps="/48f071de-e56c-440e-9f98-bf4e10ca7b97/"/>
+      <tstamps>76fba997-c146-41fb-b3a5-e1e0e183dec9</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_1"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_1/" tstamps="/48f071de-e56c-440e-9f98-bf4e10ca7b97/"/>
+      <tstamps>693d4818-8844-408b-833b-6f3f15b102a7</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_1"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_1/" tstamps="/48f071de-e56c-440e-9f98-bf4e10ca7b97/"/>
+      <tstamps>c0b72f39-a165-497d-bdb2-ad5abef6fabd</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_1"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_1/" tstamps="/48f071de-e56c-440e-9f98-bf4e10ca7b97/"/>
+      <tstamps>b021eecb-624e-4b13-a1d2-3cb45819dde3</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_2"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_2/" tstamps="/09270271-15ff-4378-b563-0ce21bce04c2/"/>
+      <tstamps>d11ebd29-6c91-4cbd-96e6-104305119337</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_2"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_2/" tstamps="/09270271-15ff-4378-b563-0ce21bce04c2/"/>
+      <tstamps>27241c98-a97c-45c6-a0d8-8c8635d28be8</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_2"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_2/" tstamps="/09270271-15ff-4378-b563-0ce21bce04c2/"/>
+      <tstamps>fbdad655-ffd6-4c37-a4b0-1f7f3ebc0803</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_2"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_2/" tstamps="/09270271-15ff-4378-b563-0ce21bce04c2/"/>
+      <tstamps>db42e23d-9c07-4453-81c6-290dfd1b284b</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_2"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_2/" tstamps="/09270271-15ff-4378-b563-0ce21bce04c2/"/>
+      <tstamps>76fba997-c146-41fb-b3a5-e1e0e183dec9</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_2"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_2/" tstamps="/09270271-15ff-4378-b563-0ce21bce04c2/"/>
+      <tstamps>693d4818-8844-408b-833b-6f3f15b102a7</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_2"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_2/" tstamps="/09270271-15ff-4378-b563-0ce21bce04c2/"/>
+      <tstamps>c0b72f39-a165-497d-bdb2-ad5abef6fabd</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_2"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_2/" tstamps="/09270271-15ff-4378-b563-0ce21bce04c2/"/>
+      <tstamps>b021eecb-624e-4b13-a1d2-3cb45819dde3</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_3"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_3/" tstamps="/72a0f738-eb60-4ed7-a613-17374ee1faf2/"/>
+      <tstamps>d11ebd29-6c91-4cbd-96e6-104305119337</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_3"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_3/" tstamps="/72a0f738-eb60-4ed7-a613-17374ee1faf2/"/>
+      <tstamps>27241c98-a97c-45c6-a0d8-8c8635d28be8</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_3"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_3/" tstamps="/72a0f738-eb60-4ed7-a613-17374ee1faf2/"/>
+      <tstamps>fbdad655-ffd6-4c37-a4b0-1f7f3ebc0803</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_3"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_3/" tstamps="/72a0f738-eb60-4ed7-a613-17374ee1faf2/"/>
+      <tstamps>db42e23d-9c07-4453-81c6-290dfd1b284b</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_3"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_3/" tstamps="/72a0f738-eb60-4ed7-a613-17374ee1faf2/"/>
+      <tstamps>76fba997-c146-41fb-b3a5-e1e0e183dec9</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_3"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_3/" tstamps="/72a0f738-eb60-4ed7-a613-17374ee1faf2/"/>
+      <tstamps>693d4818-8844-408b-833b-6f3f15b102a7</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_3"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_3/" tstamps="/72a0f738-eb60-4ed7-a613-17374ee1faf2/"/>
+      <tstamps>c0b72f39-a165-497d-bdb2-ad5abef6fabd</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_3"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_3/" tstamps="/72a0f738-eb60-4ed7-a613-17374ee1faf2/"/>
+      <tstamps>b021eecb-624e-4b13-a1d2-3cb45819dde3</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_4"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_4/" tstamps="/af1d2a18-20f7-4435-a66a-61fb1a407513/"/>
+      <tstamps>d11ebd29-6c91-4cbd-96e6-104305119337</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_4"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_4/" tstamps="/af1d2a18-20f7-4435-a66a-61fb1a407513/"/>
+      <tstamps>27241c98-a97c-45c6-a0d8-8c8635d28be8</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_4"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_4/" tstamps="/af1d2a18-20f7-4435-a66a-61fb1a407513/"/>
+      <tstamps>fbdad655-ffd6-4c37-a4b0-1f7f3ebc0803</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_4"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_4/" tstamps="/af1d2a18-20f7-4435-a66a-61fb1a407513/"/>
+      <tstamps>db42e23d-9c07-4453-81c6-290dfd1b284b</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_4"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_4/" tstamps="/af1d2a18-20f7-4435-a66a-61fb1a407513/"/>
+      <tstamps>76fba997-c146-41fb-b3a5-e1e0e183dec9</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_4"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_4/" tstamps="/af1d2a18-20f7-4435-a66a-61fb1a407513/"/>
+      <tstamps>693d4818-8844-408b-833b-6f3f15b102a7</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_4"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_4/" tstamps="/af1d2a18-20f7-4435-a66a-61fb1a407513/"/>
+      <tstamps>c0b72f39-a165-497d-bdb2-ad5abef6fabd</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_4"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_4/" tstamps="/af1d2a18-20f7-4435-a66a-61fb1a407513/"/>
+      <tstamps>b021eecb-624e-4b13-a1d2-3cb45819dde3</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_6"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_6/" tstamps="/43765442-a81e-419e-afb0-f33d9bb73e5b/"/>
+      <tstamps>d11ebd29-6c91-4cbd-96e6-104305119337</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_6"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_6/" tstamps="/43765442-a81e-419e-afb0-f33d9bb73e5b/"/>
+      <tstamps>27241c98-a97c-45c6-a0d8-8c8635d28be8</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_6"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_6/" tstamps="/43765442-a81e-419e-afb0-f33d9bb73e5b/"/>
+      <tstamps>fbdad655-ffd6-4c37-a4b0-1f7f3ebc0803</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_6"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_6/" tstamps="/43765442-a81e-419e-afb0-f33d9bb73e5b/"/>
+      <tstamps>db42e23d-9c07-4453-81c6-290dfd1b284b</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_6"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_6/" tstamps="/43765442-a81e-419e-afb0-f33d9bb73e5b/"/>
+      <tstamps>76fba997-c146-41fb-b3a5-e1e0e183dec9</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_6"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_6/" tstamps="/43765442-a81e-419e-afb0-f33d9bb73e5b/"/>
+      <tstamps>693d4818-8844-408b-833b-6f3f15b102a7</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_6"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_6/" tstamps="/43765442-a81e-419e-afb0-f33d9bb73e5b/"/>
+      <tstamps>c0b72f39-a165-497d-bdb2-ad5abef6fabd</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_6"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_6/" tstamps="/43765442-a81e-419e-afb0-f33d9bb73e5b/"/>
+      <tstamps>b021eecb-624e-4b13-a1d2-3cb45819dde3</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_8"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_8/" tstamps="/e44c0205-9440-441f-8f91-f5f55491c117/"/>
+      <tstamps>d11ebd29-6c91-4cbd-96e6-104305119337</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_8"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_8/" tstamps="/e44c0205-9440-441f-8f91-f5f55491c117/"/>
+      <tstamps>27241c98-a97c-45c6-a0d8-8c8635d28be8</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_8"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_8/" tstamps="/e44c0205-9440-441f-8f91-f5f55491c117/"/>
+      <tstamps>fbdad655-ffd6-4c37-a4b0-1f7f3ebc0803</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_8"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_8/" tstamps="/e44c0205-9440-441f-8f91-f5f55491c117/"/>
+      <tstamps>db42e23d-9c07-4453-81c6-290dfd1b284b</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_8"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_8/" tstamps="/e44c0205-9440-441f-8f91-f5f55491c117/"/>
+      <tstamps>76fba997-c146-41fb-b3a5-e1e0e183dec9</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_8"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_8/" tstamps="/e44c0205-9440-441f-8f91-f5f55491c117/"/>
+      <tstamps>693d4818-8844-408b-833b-6f3f15b102a7</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_8"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_8/" tstamps="/e44c0205-9440-441f-8f91-f5f55491c117/"/>
+      <tstamps>c0b72f39-a165-497d-bdb2-ad5abef6fabd</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_8"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_8/" tstamps="/e44c0205-9440-441f-8f91-f5f55491c117/"/>
+      <tstamps>b021eecb-624e-4b13-a1d2-3cb45819dde3</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_5"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_5/" tstamps="/642d3ef0-7f00-49fc-90ef-1bc28a7e56eb/"/>
+      <tstamps>d11ebd29-6c91-4cbd-96e6-104305119337</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_5"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_5/" tstamps="/642d3ef0-7f00-49fc-90ef-1bc28a7e56eb/"/>
+      <tstamps>27241c98-a97c-45c6-a0d8-8c8635d28be8</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_5"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_5/" tstamps="/642d3ef0-7f00-49fc-90ef-1bc28a7e56eb/"/>
+      <tstamps>fbdad655-ffd6-4c37-a4b0-1f7f3ebc0803</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_5"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_5/" tstamps="/642d3ef0-7f00-49fc-90ef-1bc28a7e56eb/"/>
+      <tstamps>db42e23d-9c07-4453-81c6-290dfd1b284b</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_5"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_5/" tstamps="/642d3ef0-7f00-49fc-90ef-1bc28a7e56eb/"/>
+      <tstamps>76fba997-c146-41fb-b3a5-e1e0e183dec9</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_5"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_5/" tstamps="/642d3ef0-7f00-49fc-90ef-1bc28a7e56eb/"/>
+      <tstamps>693d4818-8844-408b-833b-6f3f15b102a7</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_5"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_5/" tstamps="/642d3ef0-7f00-49fc-90ef-1bc28a7e56eb/"/>
+      <tstamps>c0b72f39-a165-497d-bdb2-ad5abef6fabd</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_5"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_5/" tstamps="/642d3ef0-7f00-49fc-90ef-1bc28a7e56eb/"/>
+      <tstamps>b021eecb-624e-4b13-a1d2-3cb45819dde3</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_7"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_7/" tstamps="/4c485718-042a-4d4b-8726-b761114f1fd5/"/>
+      <tstamps>d11ebd29-6c91-4cbd-96e6-104305119337</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_7"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_7/" tstamps="/4c485718-042a-4d4b-8726-b761114f1fd5/"/>
+      <tstamps>27241c98-a97c-45c6-a0d8-8c8635d28be8</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_7"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_7/" tstamps="/4c485718-042a-4d4b-8726-b761114f1fd5/"/>
+      <tstamps>fbdad655-ffd6-4c37-a4b0-1f7f3ebc0803</tstamps>
+    </comp>
+    <comp ref="D60">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_7"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_7/" tstamps="/4c485718-042a-4d4b-8726-b761114f1fd5/"/>
+      <tstamps>db42e23d-9c07-4453-81c6-290dfd1b284b</tstamps>
+    </comp>
+    <comp ref="D61">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_7"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_7/" tstamps="/4c485718-042a-4d4b-8726-b761114f1fd5/"/>
+      <tstamps>76fba997-c146-41fb-b3a5-e1e0e183dec9</tstamps>
+    </comp>
+    <comp ref="D62">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_7"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_7/" tstamps="/4c485718-042a-4d4b-8726-b761114f1fd5/"/>
+      <tstamps>693d4818-8844-408b-833b-6f3f15b102a7</tstamps>
+    </comp>
+    <comp ref="D63">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_7"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_7/" tstamps="/4c485718-042a-4d4b-8726-b761114f1fd5/"/>
+      <tstamps>c0b72f39-a165-497d-bdb2-ad5abef6fabd</tstamps>
+    </comp>
+    <comp ref="D64">
+      <value>LED</value>
+      <footprint>LED_SMD:LED_0603_1608Metric</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf</datasheet>
+      <fields>
+        <field name="JLC#">C2286</field>
+      </fields>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="JLC#" value="C2286"/>
+      <property name="Sheetname" value="8_leds_7"/>
+      <property name="Sheetfile" value="8_leds.kicad_sch"/>
+      <property name="ki_description" value="Light emitting diode"/>
+      <property name="ki_keywords" value="LED diode"/>
+      <sheetpath names="/8_leds_7/" tstamps="/4c485718-042a-4d4b-8726-b761114f1fd5/"/>
+      <tstamps>b021eecb-624e-4b13-a1d2-3cb45819dde3</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x03_Socket">
+      <description>Generic connector, single row, 01x03, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x03_Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Driver_LED" part="TM1640">
+      <docs>https://datasheet.lcsc.com/lcsc/2101251932_TM-Shenzhen-Titan-Micro-Elec-TM1640_C41327.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Footprint">Package_SO:SSOP-28_3.9x9.9mm_P0.635mm</field>
+        <field name="Datasheet">https://datasheet.lcsc.com/lcsc/2101251932_TM-Shenzhen-Titan-Micro-Elec-TM1640_C41327.pdf</field>
+        <field name="JLC#">C41327</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GRID12" type="output"/>
+        <pin num="2" name="GRID13" type="output"/>
+        <pin num="3" name="GRID14" type="output"/>
+        <pin num="4" name="GRID15" type="output"/>
+        <pin num="5" name="GRID16" type="output"/>
+        <pin num="6" name="VSS" type="power_in"/>
+        <pin num="7" name="DIN" type="input"/>
+        <pin num="8" name="SCLK" type="input"/>
+        <pin num="9" name="SEG1" type="input"/>
+        <pin num="10" name="SEG2" type="input"/>
+        <pin num="11" name="SEG3" type="input"/>
+        <pin num="12" name="SEG4" type="input"/>
+        <pin num="13" name="SEG5" type="input"/>
+        <pin num="14" name="SEG6" type="input"/>
+        <pin num="15" name="SEG7" type="input"/>
+        <pin num="16" name="SEG8" type="input"/>
+        <pin num="17" name="VDD" type="power_in"/>
+        <pin num="18" name="GRID1" type="output"/>
+        <pin num="19" name="GRID2" type="output"/>
+        <pin num="20" name="GRID3" type="output"/>
+        <pin num="21" name="GRID4" type="output"/>
+        <pin num="22" name="GRID5" type="output"/>
+        <pin num="23" name="GRID6" type="output"/>
+        <pin num="24" name="GRID7" type="output"/>
+        <pin num="25" name="GRID8" type="output"/>
+        <pin num="26" name="GRID9" type="output"/>
+        <pin num="27" name="GRID10" type="output"/>
+        <pin num="28" name="GRID11" type="output"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="SolderJumper_2_Open">
+      <description>Solder Jumper, 2-pole, open</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>SolderJumper*Open*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">SolderJumper_2_Open</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Simulation_SPICE" part="NMOS">
+      <description>N-MOSFET transistor, drain/source/gate</description>
+      <docs>https://ngspice.sourceforge.io/docs/ngspice-manual.pdf</docs>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">NMOS</field>
+        <field name="Datasheet">https://ngspice.sourceforge.io/docs/ngspice-manual.pdf</field>
+        <field name="Sim.Device">NMOS</field>
+        <field name="Sim.Type">VDMOS</field>
+        <field name="Sim.Pins">1=D 2=G 3=S</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="passive"/>
+        <pin num="2" name="G" type="input"/>
+        <pin num="3" name="S" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="TYPE-C-31-M-12" part="TYPE-C-31-M-12">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">TYPE-C-31-M-12</field>
+        <field name="Footprint">HRO_TYPE-C-31-M-12</field>
+        <field name="PARTREV">2020.12.08</field>
+        <field name="MANUFACTURER">HRO Electronics Co., Ltd.</field>
+        <field name="SNAPEDA_PN">TYPE-C-31-M-12</field>
+        <field name="STANDARD">Manufacturer Recommendations</field>
+        <field name="MAXIMUM_PACKAGE_HEIGHT">3.26 mm</field>
+      </fields>
+      <pins>
+        <pin num="A1_B12" name="GND" type="power_in"/>
+        <pin num="A4_B9" name="VBUS" type="power_in"/>
+        <pin num="A5" name="CC1" type="bidirectional"/>
+        <pin num="A6" name="DP1" type="bidirectional"/>
+        <pin num="A7" name="DN1" type="bidirectional"/>
+        <pin num="A8" name="SBU1" type="bidirectional"/>
+        <pin num="B1_A12" name="GND" type="power_in"/>
+        <pin num="B4_A9" name="VBUS" type="power_in"/>
+        <pin num="B5" name="CC2" type="bidirectional"/>
+        <pin num="B6" name="DP2" type="bidirectional"/>
+        <pin num="B7" name="DN2" type="bidirectional"/>
+        <pin num="B8" name="SBU2" type="bidirectional"/>
+        <pin num="S1" name="SHIELD" type="passive"/>
+        <pin num="S2" name="SHIELD" type="passive"/>
+        <pin num="S3" name="SHIELD" type="passive"/>
+        <pin num="S4" name="SHIELD" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Device.kicad_sym</uri>
+    </library>
+    <library logical="Driver_LED">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Driver_LED.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Jumper.kicad_sym</uri>
+    </library>
+    <library logical="Simulation_SPICE">
+      <uri>/Applications/KiCad/KiCad.app/Contents/SharedSupport/symbols//Simulation_SPICE.kicad_sym</uri>
+    </library>
+    <library logical="TYPE-C-31-M-12">
+      <uri>/Users/cadenkeese/Documents/KiCad/7.0/symbols/TYPE-C-31-M-12.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/3V3_DIN">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="Q1" pin="2" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="2" name="/3V3_SCK">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="Q3" pin="2" pinfunction="G" pintype="input"/>
+    </net>
+    <net code="3" name="/3v3_GND">
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="Q1" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q3" pin="3" pinfunction="S" pintype="passive"/>
+    </net>
+    <net code="4" name="/5V_DIN">
+      <node ref="Q2" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="R12" pin="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="DIN" pintype="input"/>
+    </net>
+    <net code="5" name="/5V_SCK">
+      <node ref="Q4" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="R13" pin="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="SCLK" pintype="input"/>
+    </net>
+    <net code="6" name="/GRID1">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="GRID1" pintype="output"/>
+    </net>
+    <net code="7" name="/GRID2">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="GRID2" pintype="output"/>
+    </net>
+    <net code="8" name="/GRID3">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="GRID3" pintype="output"/>
+    </net>
+    <net code="9" name="/GRID4">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="21" pinfunction="GRID4" pintype="output"/>
+    </net>
+    <net code="10" name="/GRID5">
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="GRID5" pintype="output"/>
+    </net>
+    <net code="11" name="/GRID6">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="GRID6" pintype="output"/>
+    </net>
+    <net code="12" name="/GRID7">
+      <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D60" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D61" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D62" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D63" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D64" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="GRID7" pintype="output"/>
+    </net>
+    <net code="13" name="/GRID8">
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="U1" pin="25" pinfunction="GRID8" pintype="output"/>
+    </net>
+    <net code="14" name="/GRID9">
+      <node ref="U1" pin="26" pinfunction="GRID9" pintype="output+no_connect"/>
+    </net>
+    <net code="15" name="/GRID10">
+      <node ref="U1" pin="27" pinfunction="GRID10" pintype="output+no_connect"/>
+    </net>
+    <net code="16" name="/GRID11">
+      <node ref="U1" pin="28" pinfunction="GRID11" pintype="output+no_connect"/>
+    </net>
+    <net code="17" name="/GRID12">
+      <node ref="U1" pin="1" pinfunction="GRID12" pintype="output+no_connect"/>
+    </net>
+    <net code="18" name="/GRID13">
+      <node ref="U1" pin="2" pinfunction="GRID13" pintype="output+no_connect"/>
+    </net>
+    <net code="19" name="/GRID14">
+      <node ref="U1" pin="3" pinfunction="GRID14" pintype="output+no_connect"/>
+    </net>
+    <net code="20" name="/GRID15">
+      <node ref="U1" pin="4" pinfunction="GRID15" pintype="output+no_connect"/>
+    </net>
+    <net code="21" name="/GRID16">
+      <node ref="U1" pin="5" pinfunction="GRID16" pintype="output+no_connect"/>
+    </net>
+    <net code="22" name="/SEG1">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D57" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R3" pin="2" pintype="passive"/>
+    </net>
+    <net code="23" name="/SEG2">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D58" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R8" pin="1" pintype="passive"/>
+    </net>
+    <net code="24" name="/SEG3">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R5" pin="2" pintype="passive"/>
+    </net>
+    <net code="25" name="/SEG4">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D60" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R6" pin="1" pintype="passive"/>
+    </net>
+    <net code="26" name="/SEG5">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D61" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R7" pin="1" pintype="passive"/>
+    </net>
+    <net code="27" name="/SEG6">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D54" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D62" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+    </net>
+    <net code="28" name="/SEG7">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D55" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D63" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R9" pin="2" pintype="passive"/>
+    </net>
+    <net code="29" name="/SEG8">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D64" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="R10" pin="1" pintype="passive"/>
+    </net>
+    <net code="31" name="GND">
+      <node ref="J1" pin="A1_B12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="B1_A12" pinfunction="GND" pintype="power_in"/>
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="Q2" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="Q4" pin="3" pinfunction="S" pintype="passive"/>
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="VSS" pintype="power_in"/>
+    </net>
+    <net code="32" name="Net-(J1-CC1)">
+      <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(J1-CC2)">
+      <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(JP1-A)">
+      <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S2" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S3" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="J1" pin="S4" pinfunction="SHIELD" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(Q1-D)">
+      <node ref="Q1" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="Q2" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R11" pin="1" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(Q3-D)">
+      <node ref="Q3" pin="1" pinfunction="D" pintype="passive"/>
+      <node ref="Q4" pin="2" pinfunction="G" pintype="input"/>
+      <node ref="R14" pin="1" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(U1-SEG1)">
+      <node ref="R3" pin="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="SEG1" pintype="input"/>
+    </net>
+    <net code="38" name="Net-(U1-SEG2)">
+      <node ref="R8" pin="2" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="SEG2" pintype="input"/>
+    </net>
+    <net code="39" name="Net-(U1-SEG3)">
+      <node ref="R5" pin="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="SEG3" pintype="input"/>
+    </net>
+    <net code="40" name="Net-(U1-SEG4)">
+      <node ref="R6" pin="2" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="SEG4" pintype="input"/>
+    </net>
+    <net code="41" name="Net-(U1-SEG5)">
+      <node ref="R7" pin="2" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="SEG5" pintype="input"/>
+    </net>
+    <net code="42" name="Net-(U1-SEG6)">
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="SEG6" pintype="input"/>
+    </net>
+    <net code="43" name="Net-(U1-SEG7)">
+      <node ref="R9" pin="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="SEG7" pintype="input"/>
+    </net>
+    <net code="44" name="Net-(U1-SEG8)">
+      <node ref="R10" pin="2" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="SEG8" pintype="input"/>
+    </net>
+    <net code="45" name="VBUS">
+      <node ref="J1" pin="A4_B9" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="J1" pin="B4_A9" pinfunction="VBUS" pintype="power_in"/>
+      <node ref="R11" pin="2" pintype="passive"/>
+      <node ref="R12" pin="2" pintype="passive"/>
+      <node ref="R13" pin="2" pintype="passive"/>
+      <node ref="R14" pin="2" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="VDD" pintype="power_in"/>
+    </net>
+    <net code="46" name="unconnected-(J1-DN1-PadA7)">
+      <node ref="J1" pin="A7" pinfunction="DN1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(J1-DN2-PadB7)">
+      <node ref="J1" pin="B7" pinfunction="DN2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(J1-DP1-PadA6)">
+      <node ref="J1" pin="A6" pinfunction="DP1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(J1-DP2-PadB6)">
+      <node ref="J1" pin="B6" pinfunction="DP2" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(J1-SBU1-PadA8)">
+      <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(J1-SBU2-PadB8)">
+      <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
+    </net>
+  </nets>
+</export>
